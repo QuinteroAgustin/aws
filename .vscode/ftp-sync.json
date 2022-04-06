@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home/admin/web/",
+    "host": "ec2-13-36-208-179.eu-west-3.compute.amazonaws.com",
+    "username": "admin",
+    "password": "",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "Z:/aws/mc3.pem",
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
