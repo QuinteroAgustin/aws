@@ -9,7 +9,7 @@
     "uploadOnSave": false,
     "passive": false,
     "debug": false,
-    "privateKeyPath": "Z:/aws/mc3.pem",
+    "privateKeyPath": "/Users/agustinquintero/Public/aws",
     "passphrase": null,
     "agent": null,
     "allow": [],
